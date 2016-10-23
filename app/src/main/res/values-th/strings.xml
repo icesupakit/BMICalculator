@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"BMI Calculator "</string>
+    <string name="app_weight">ส่วนสูง(ซม.):</string>
+    <string name="app_Height"> น้ำหนัก(กก.):</string>
+    <string name="app_button"> คำนวณ</string>
+
+</resources>
